@@ -1366,5 +1366,10 @@
     "name": "Watermelon Game",
     "directory": "watermelongame",
     "image": "assets/sprites/tittle.png"
-  }
+  },
+  {
+        "name": "unblocker",
+        "directory": "unlocked",
+        "image": "splash.png"
+  },
 ]
